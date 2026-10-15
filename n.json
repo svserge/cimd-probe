@@ -2,7 +2,7 @@
   "client_id": "https://raw.githubusercontent.com/svserge/cimd-probe/master/n.json",
   "client_name": "Infabode CIMD none probe",
   "redirect_uris": [
-    "https://example.com/callback"
+    "http://127.0.0.1:9876/callback"
   ],
   "grant_types": [
     "authorization_code",
