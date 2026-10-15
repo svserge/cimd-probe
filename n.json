@@ -1,0 +1,16 @@
+{
+  "client_id": "https://raw.githubusercontent.com/svserge/cimd-probe/main/n.json",
+  "client_name": "Infabode CIMD none probe",
+  "redirect_uris": [
+    "https://example.com/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "application_type": "web"
+}
